@@ -1,0 +1,51 @@
+Contains_Buy,Contains_Win,Email_Length,Special_Characters,Class
+Yes,Yes,Long,Few,Spam
+Yes,Yes,Short,Many,Not Spam
+Yes,Yes,Short,Few,Not Spam
+No,Yes,Short,Few,Spam
+Yes,Yes,Long,Few,Not Spam
+Yes,No,Long,Many,Not Spam
+No,Yes,Long,Many,Spam
+Yes,No,Long,Few,Not Spam
+Yes,No,Short,Few,Spam
+Yes,No,Short,Few,Not Spam
+Yes,No,Short,Many,Spam
+Yes,No,Short,Few,Not Spam
+No,No,Short,Many,Spam
+Yes,No,Short,Few,Spam
+Yes,No,Long,Few,Not Spam
+No,No,Long,Many,Spam
+Yes,Yes,Long,Many,Not Spam
+Yes,No,Long,Many,Not Spam
+Yes,No,Short,Few,Not Spam
+Yes,No,Short,Few,Spam
+No,Yes,Long,Many,Spam
+Yes,Yes,Long,Many,Spam
+No,No,Long,Many,Spam
+Yes,Yes,Short,Many,Spam
+Yes,No,Long,Few,Spam
+No,No,Long,Few,Not Spam
+Yes,No,Long,Many,Spam
+No,No,Short,Many,Not Spam
+No,No,Short,Many,Spam
+Yes,Yes,Long,Few,Not Spam
+No,No,Long,Many,Spam
+No,No,Short,Many,Not Spam
+Yes,No,Short,Few,Not Spam
+No,No,Long,Few,Not Spam
+Yes,No,Short,Many,Spam
+No,No,Long,Few,Not Spam
+No,No,Short,Many,Spam
+Yes,Yes,Long,Few,Not Spam
+No,No,Short,Many,Spam
+No,No,Short,Few,Spam
+No,Yes,Short,Many,Spam
+No,No,Short,Many,Not Spam
+No,Yes,Short,Few,Not Spam
+No,No,Short,Few,Spam
+Yes,No,Long,Many,Not Spam
+Yes,No,Short,Few,Not Spam
+Yes,Yes,Long,Many,Spam
+Yes,Yes,Short,Few,Not Spam
+Yes,Yes,Long,Many,Not Spam
+Yes,Yes,Long,Many,Not Spam
