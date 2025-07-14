@@ -10,7 +10,7 @@ This repository contains coursework, assignments, projects, and exercises comple
 - **University**: FAST-NUCES  
 - **Semester**: 6th  
 - **Language**: Python  
-- **Tools**: Jupyter Notebook, Python 3.x, Libraries like NumPy, Matplotlib, Scikit-learn
+- **Tools**: Jupyter Notebook, Python , Libraries like NumPy, Matplotlib, Scikit-learn
 
 ---
 
